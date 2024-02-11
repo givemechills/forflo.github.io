@@ -1,12 +1,26 @@
 body {
+    font-family: 'Lobster', cursive;
+    background-color: #ffdde1;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: space-evenly;
     height: 100vh;
-    background-color: #0d0d0d;
-    background: url('style/images/3409.jpg') repeat;
+    margin: 0;
+    background: url('images/3409.jpg') repeat;
     font-size: 35px;
-    color: rgb(209, 127, 183);
+    color: rgb(255, 0, 174);
+}
+.hh{
+    -webkit-text-stroke: 2px #71004f;
+    font-weight:900;
+
+}
+.pp{
+    -webkit-text-stroke: 2px #71004f;
+
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: 800;
 }
 
 /* Position the "No" button absolutely within body */
