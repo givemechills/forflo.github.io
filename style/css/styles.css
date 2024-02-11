@@ -9,14 +9,14 @@ body {
 /* Position the "No" button absolutely within body */
 #noButton {
     position: absolute;
-    margin-left: 180px;
+    margin-left: 200px;
     transition: 0.5s;
     /* Smooth movement */
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 180px;
+    margin-right: 200px;
     /* Smooth movement */
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .btn {
-    background-color: #730516;
+    background-color: #7e3573;
     color: white;
     padding: 15px 32px;
     text-align: center;
