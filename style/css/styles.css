@@ -3,20 +3,20 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #171416;
+    background-color: #000000;
 }
 
 /* Position the "No" button absolutely within body */
 #noButton {
     position: absolute;
-    margin-left: 150px;
+    margin-left: 180px;
     transition: 0.5s;
     /* Smooth movement */
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 150px;
+    margin-right: 180px;
     /* Smooth movement */
 }
 
