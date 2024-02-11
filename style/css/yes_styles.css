@@ -1,10 +1,12 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     background-color: #F8C8DC;
-    background-image: url('./style/images/love.png') no-repeat center center fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+    margin: 0;
+    background-image: url('./style/images/love.png');
+    margin: 0;
 }
 
 /* Position the "No" button absolutely within body */
