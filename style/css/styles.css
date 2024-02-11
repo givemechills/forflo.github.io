@@ -4,7 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #0d0d0d;
-    background: url('images/3409.jpg') repeat;
+    background: url('style/images/3409.jpg') repeat;
+    font-size: 35px;
+    color: rgb(209, 127, 183);
 }
 
 /* Position the "No" button absolutely within body */
